@@ -32,3 +32,4 @@ Successfully pushing local repository changes to GitHub.
 
 Conclusion 
 Overall this assignment helped them gain practical experience using version control and GitHub repository. The setup process showed the collaboration, tracking, and organization of files and Work items with Git and GitHub in DevOps environments. During the activity, key concepts were learned and applied such as: Initializing the repository, file staging, committing changes and pushing up changes to GitHub.
+    
